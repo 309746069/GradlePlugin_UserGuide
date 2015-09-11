@@ -24,6 +24,13 @@ Gradle Plugin的使用，并结合例子说明
 4.1 | 14.11.03  | [yeungeek](https://github.com/yeungeek)|
 4.2 | 14.11.05  | [yeungeek](https://github.com/yeungeek)|
 4.3 | 14.12.01  | [flyouting](https://github.com/flyouting)|
+5.1 | 15.05.01  | [yeungeek](https://github.com/yeungeek)|
+5.2 | 15.05.02  | [yeungeek](https://github.com/yeungeek)|
+5.3 | 15.05.02  | [yeungeek](https://github.com/yeungeek)|
+5.4 | 15.05.04  | [yeungeek](https://github.com/yeungeek)|
+5.5 | 15.05.05  | [yeungeek](https://github.com/yeungeek)|
+6 | 15.06.21  | [yeungeek](https://github.com/yeungeek)|
+7 | 15.06.22  | [yeungeek](https://github.com/yeungeek)|
 
 **特色**
 
